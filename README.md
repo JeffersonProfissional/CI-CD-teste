@@ -1,4 +1,4 @@
-# b7cicd-example
+# CI/CD
 
 API REST de tarefas em **Express + TypeScript** usada como projeto base do curso **Fundamentos de CI/CD**.
 
